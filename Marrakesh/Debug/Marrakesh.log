@@ -1,0 +1,7 @@
+﻿  Application.cpp
+c:\users\garrick\onedrive\kursovoi\marrakesh\marrakesh\util\include\application.cpp(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Marrakesh.cpp
+  Generating Code...
+  gl3w.c
+  Marrakesh.vcxproj -> C:\Users\Garrick\OneDrive\Kursovoi\Marrakesh\Debug\Marrakesh.exe
+  Marrakesh.vcxproj -> C:\Users\Garrick\OneDrive\Kursovoi\Marrakesh\Debug\Marrakesh.pdb (Full PDB)
